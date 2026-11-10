@@ -75,7 +75,7 @@ flowchart LR
 
 | Results dashboard | Patient records |
 |---|---|
-| ![Results](results.png) | ![Records](patient-records.png) |
+| ![Results](result.png) | ![Records](patient-records.png) |
 
 A sample PDF report generated from demo data is in [`sample_report.pdf`](sample_report.pdf).
 
