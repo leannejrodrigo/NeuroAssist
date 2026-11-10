@@ -6,6 +6,9 @@ BSc graduation project · Canadian University Dubai · 2025–2026
 
 > ⚠️ **Academic prototype — not clinically validated.** NeuroAssist was built for a university project. It does not diagnose dementia and must not be used for real clinical decisions or with real patient data.
 
+
+
+
 ![Welcome screen](welcome.png)
 
 ## Overview
