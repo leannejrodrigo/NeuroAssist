@@ -121,10 +121,9 @@ Python · Streamlit · SQLite · Pandas · Matplotlib · ReportLab
 - Authentication, role-based access and encrypted storage
 - EHR integration and an automated test suite
 
-## Authors
+## Author
 
-- **Leanne Jessica Rodrigo**: software design and implementation, integration and testing ([@leannejrodrigo](https://github.com/leannejrodrigo))
-- **Aaliyah Al-Sayyad**: research, questionnaire development and literature review
+Designed and developed by **Leanne Jessica Rodrigo** ([@leannejrodrigo](https://github.com/leannejrodrigo)), covering software design, implementation, integration and testing.
 
 Supervised by **Dr Firuz Kamalov**, Canadian University Dubai.
 
