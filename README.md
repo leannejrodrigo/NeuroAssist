@@ -6,7 +6,7 @@ BSc graduation project · Canadian University Dubai · 2025–2026
 
 > ⚠️ **Academic prototype — not clinically validated.** NeuroAssist was built for a university project. It does not diagnose dementia and must not be used for real clinical decisions or with real patient data.
 
-![Welcome screen](docs/screenshots/welcome.png)
+![Welcome screen](welcome.png)
 
 ## Overview
 
@@ -75,9 +75,9 @@ flowchart LR
 
 | Results dashboard | Patient records |
 |---|---|
-| ![Results](docs/screenshots/results.png) | ![Records](docs/screenshots/patient-records.png) |
+| ![Results](results.png) | ![Records](patient-records.png) |
 
-A sample PDF report generated from demo data is in [`docs/sample_report.pdf`](docs/sample_report.pdf).
+A sample PDF report generated from demo data is in [`sample_report.pdf`](sample_report.pdf).
 
 ## Getting started
 
@@ -98,7 +98,6 @@ The app opens in your browser. Click **Load Moderate Risk Demo** to see a full a
 app.py       Streamlit UI: pages, patient records, charts, PDF report
 engine.py    Scoring, severity classification, rules R1–R7, risk classification
 data.py      Knowledge base: questions, domain weights, answer scale
-docs/        Screenshots and a sample report
 ```
 
 ## Tech stack
